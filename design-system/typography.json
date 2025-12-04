@@ -1,0 +1,91 @@
+{
+  "fontFamily": {
+    "primary": "SF Pro Display",
+    "secondary": "SF Pro Text",
+    "mono": "SF Mono"
+  },
+  "fontSize": {
+    "xs": 12,
+    "sm": 14,
+    "base": 16,
+    "lg": 18,
+    "xl": 20,
+    "2xl": 24,
+    "3xl": 30,
+    "4xl": 36,
+    "5xl": 48
+  },
+  "fontWeight": {
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700
+  },
+  "lineHeight": {
+    "tight": 1.2,
+    "normal": 1.5,
+    "relaxed": 1.75
+  },
+  "textStyles": {
+    "h1": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": 36,
+      "fontWeight": 700,
+      "lineHeight": 1.2
+    },
+    "h2": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": 30,
+      "fontWeight": 700,
+      "lineHeight": 1.2
+    },
+    "h3": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 1.3
+    },
+    "h4": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": 20,
+      "fontWeight": 600,
+      "lineHeight": 1.4
+    },
+    "bodyLarge": {
+      "fontFamily": "SF Pro Text",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 1.5
+    },
+    "body": {
+      "fontFamily": "SF Pro Text",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 1.5
+    },
+    "bodySmall": {
+      "fontFamily": "SF Pro Text",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 1.5
+    },
+    "caption": {
+      "fontFamily": "SF Pro Text",
+      "fontSize": 12,
+      "fontWeight": 400,
+      "lineHeight": 1.4
+    },
+    "button": {
+      "fontFamily": "SF Pro Display",
+      "fontSize": 16,
+      "fontWeight": 600,
+      "lineHeight": 1.2
+    },
+    "time": {
+      "fontFamily": "SF Mono",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 1.2
+    }
+  }
+}

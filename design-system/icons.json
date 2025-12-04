@@ -1,0 +1,79 @@
+{
+  "iconLibrary": "SF Symbols + Custom",
+  "icons": {
+    "navigation": {
+      "home": "house.fill",
+      "map": "map.fill",
+      "location": "location.fill",
+      "locationArrow": "location.north.fill",
+      "route": "arrow.triangle.turn.up.right.diamond.fill",
+      "directions": "arrow.triangle.swap",
+      "compass": "safari.fill",
+      "navigation": "location.north.line.fill"
+    },
+    "transport": {
+      "car": "car.fill",
+      "walk": "figure.walk",
+      "bike": "bicycle",
+      "bus": "bus.fill",
+      "traffic": "car.2.fill"
+    },
+    "actions": {
+      "search": "magnifyingglass",
+      "close": "xmark",
+      "back": "chevron.left",
+      "forward": "chevron.right",
+      "up": "chevron.up",
+      "down": "chevron.down",
+      "menu": "line.3.horizontal",
+      "more": "ellipsis",
+      "share": "square.and.arrow.up",
+      "add": "plus",
+      "remove": "minus",
+      "edit": "pencil",
+      "delete": "trash.fill",
+      "refresh": "arrow.clockwise"
+    },
+    "places": {
+      "home": "house.fill",
+      "work": "briefcase.fill",
+      "favorite": "star.fill",
+      "recent": "clock.fill",
+      "saved": "bookmark.fill",
+      "pin": "mappin.circle.fill"
+    },
+    "status": {
+      "fast": "hare.fill",
+      "moderate": "tortoise.fill",
+      "heavy": "exclamationmark.triangle.fill",
+      "clock": "clock.fill",
+      "distance": "arrow.left.and.right",
+      "eta": "timer"
+    },
+    "user": {
+      "profile": "person.fill",
+      "settings": "gearshape.fill",
+      "notifications": "bell.fill",
+      "help": "questionmark.circle.fill",
+      "logout": "rectangle.portrait.and.arrow.right"
+    },
+    "misc": {
+      "mic": "mic.fill",
+      "camera": "camera.fill",
+      "photo": "photo.fill",
+      "globe": "globe",
+      "moon": "moon.fill",
+      "sun": "sun.max.fill",
+      "volume": "speaker.wave.3.fill",
+      "mute": "speaker.slash.fill"
+    }
+  },
+  "customIcons": {
+    "logo": "TrafficNavigator logo mark",
+    "routeFast": "Green route indicator",
+    "routeModerate": "Yellow route indicator", 
+    "routeHeavy": "Red route indicator",
+    "userMarker": "Current location pulse",
+    "destinationMarker": "Destination pin"
+  }
+}

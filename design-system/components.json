@@ -1,0 +1,123 @@
+{
+  "components": {
+    "button": {
+      "primary": {
+        "background": "linear-gradient(135deg, #6C63FF 0%, #8B5CF6 100%)",
+        "textColor": "#FFFFFF",
+        "borderRadius": 16,
+        "height": 56,
+        "shadow": "0 4px 14px rgba(108, 99, 255, 0.4)"
+      },
+      "secondary": {
+        "background": "#F1F5F9",
+        "textColor": "#0F172A",
+        "borderRadius": 16,
+        "height": 56,
+        "shadow": "none"
+      },
+      "outline": {
+        "background": "transparent",
+        "textColor": "#6C63FF",
+        "borderColor": "#6C63FF",
+        "borderWidth": 2,
+        "borderRadius": 16,
+        "height": 56
+      },
+      "ghost": {
+        "background": "transparent",
+        "textColor": "#6C63FF",
+        "borderRadius": 16,
+        "height": 48
+      }
+    },
+    "input": {
+      "default": {
+        "background": "#F8FAFC",
+        "borderColor": "#E2E8F0",
+        "borderWidth": 1,
+        "borderRadius": 16,
+        "height": 52,
+        "paddingHorizontal": 16,
+        "textColor": "#0F172A",
+        "placeholderColor": "#94A3B8"
+      },
+      "focused": {
+        "borderColor": "#6C63FF",
+        "borderWidth": 2,
+        "shadow": "0 0 0 4px rgba(108, 99, 255, 0.1)"
+      },
+      "error": {
+        "borderColor": "#EF4444",
+        "borderWidth": 2
+      }
+    },
+    "card": {
+      "default": {
+        "background": "#FFFFFF",
+        "borderRadius": 20,
+        "padding": 16,
+        "shadow": "0 2px 8px rgba(0, 0, 0, 0.08)"
+      },
+      "elevated": {
+        "background": "#FFFFFF",
+        "borderRadius": 24,
+        "padding": 20,
+        "shadow": "0 8px 24px rgba(0, 0, 0, 0.12)"
+      }
+    },
+    "routeCard": {
+      "fast": {
+        "background": "#FFFFFF",
+        "accentColor": "#10B981",
+        "borderRadius": 20,
+        "borderLeftWidth": 4
+      },
+      "moderate": {
+        "background": "#FFFFFF",
+        "accentColor": "#F59E0B",
+        "borderRadius": 20,
+        "borderLeftWidth": 4
+      },
+      "heavy": {
+        "background": "#FFFFFF",
+        "accentColor": "#EF4444",
+        "borderRadius": 20,
+        "borderLeftWidth": 4
+      }
+    },
+    "searchBar": {
+      "background": "#FFFFFF",
+      "borderRadius": 16,
+      "height": 52,
+      "shadow": "0 4px 16px rgba(0, 0, 0, 0.08)",
+      "iconColor": "#94A3B8",
+      "textColor": "#0F172A",
+      "placeholderColor": "#94A3B8"
+    },
+    "bottomNav": {
+      "background": "#FFFFFF",
+      "height": 83,
+      "activeColor": "#6C63FF",
+      "inactiveColor": "#94A3B8",
+      "shadow": "0 -4px 20px rgba(0, 0, 0, 0.08)"
+    },
+    "chip": {
+      "background": "#F1F5F9",
+      "activeBackground": "#6C63FF",
+      "textColor": "#64748B",
+      "activeTextColor": "#FFFFFF",
+      "borderRadius": 20,
+      "paddingHorizontal": 16,
+      "paddingVertical": 8
+    },
+    "avatar": {
+      "sizes": {
+        "sm": 32,
+        "md": 48,
+        "lg": 64,
+        "xl": 96
+      },
+      "borderRadius": "full"
+    }
+  }
+}

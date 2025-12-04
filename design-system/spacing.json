@@ -1,0 +1,54 @@
+{
+  "spacing": {
+    "0": 0,
+    "1": 4,
+    "2": 8,
+    "3": 12,
+    "4": 16,
+    "5": 20,
+    "6": 24,
+    "7": 28,
+    "8": 32,
+    "10": 40,
+    "12": 48,
+    "16": 64,
+    "20": 80
+  },
+  "borderRadius": {
+    "none": 0,
+    "sm": 4,
+    "md": 8,
+    "lg": 12,
+    "xl": 16,
+    "2xl": 24,
+    "full": 9999
+  },
+  "iconSize": {
+    "xs": 16,
+    "sm": 20,
+    "md": 24,
+    "lg": 32,
+    "xl": 40,
+    "2xl": 48
+  },
+  "screen": {
+    "width": 393,
+    "height": 852,
+    "safeAreaTop": 59,
+    "safeAreaBottom": 34,
+    "statusBarHeight": 54,
+    "homeIndicator": 34
+  },
+  "components": {
+    "buttonHeight": {
+      "sm": 36,
+      "md": 48,
+      "lg": 56
+    },
+    "inputHeight": 52,
+    "cardPadding": 16,
+    "searchBarHeight": 52,
+    "bottomNavHeight": 83,
+    "headerHeight": 96
+  }
+}

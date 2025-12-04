@@ -1,0 +1,50 @@
+{
+  "brand": {
+    "primary": {
+      "purple": "#6C63FF",
+      "purpleLight": "#8B5CF6",
+      "purpleDark": "#5B52E0",
+      "gradient": "linear-gradient(135deg, #6C63FF 0%, #8B5CF6 100%)"
+    }
+  },
+  "routes": {
+    "fast": {
+      "main": "#10B981",
+      "light": "#D1FAE5",
+      "dark": "#059669"
+    },
+    "moderate": {
+      "main": "#F59E0B",
+      "light": "#FEF3C7",
+      "dark": "#D97706"
+    },
+    "heavy": {
+      "main": "#EF4444",
+      "light": "#FEE2E2",
+      "dark": "#DC2626"
+    }
+  },
+  "neutral": {
+    "white": "#FFFFFF",
+    "background": "#F8FAFC",
+    "card": "#FFFFFF",
+    "border": "#E2E8F0",
+    "textPrimary": "#0F172A",
+    "textSecondary": "#64748B",
+    "textTertiary": "#94A3B8",
+    "dark": "#1E293B"
+  },
+  "system": {
+    "success": "#10B981",
+    "warning": "#F59E0B",
+    "error": "#EF4444",
+    "info": "#3B82F6"
+  },
+  "map": {
+    "userLocation": "#6C63FF",
+    "destination": "#EF4444",
+    "routeFast": "#10B981",
+    "routeModerate": "#F59E0B",
+    "routeHeavy": "#EF4444"
+  }
+}
